@@ -1,0 +1,26 @@
+{
+  "name": "semafor-be-test-akash",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AKSharma01/semafor-be-test-akash.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AKSharma01/semafor-be-test-akash/issues"
+  },
+  "devDependencies": {},
+  "dependencies": {
+    "dotenv": "^7.0.0",
+    "express": "^4.16.4",
+    "express-validator": "^5.3.1",
+    "mongoose": "^5.5.2"
+  },
+  "homepage": "https://github.com/AKSharma01/semafor-be-test-akash#readme",
+  "description": ""
+}
